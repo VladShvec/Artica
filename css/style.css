@@ -151,18 +151,19 @@ header
 {
     display: inline-block;
     width: 279px;
+    text-align: center;
 }
 .servic_small_block img
 {
         margin-bottom: 23px;
-    margin-left: 69px;
+    
     vertical-align: top;
 }
 .service_heading
 {
         text-transform: uppercase;
     font-size: 20px;
-    margin-left: 66px;
+    
     color: #3d506f;
     margin-bottom: 20px;
 }
@@ -172,4 +173,8 @@ header
     text-align: center;
     color:  #7f90a5;
     margin-left: -10px;
+}
+.servic_small_block:last-child
+{
+    margin-left: 22px;
 }
