@@ -135,7 +135,7 @@ header
 .grey_line
 {
     margin-top: 22px;
-    margin-left: 287px;
+    margin-left: 299px;
     margin-bottom: 23px;
 }
 .Under_line_text{
@@ -178,4 +178,38 @@ header
 .servic_small_block:last-child
 {
     margin-right: -7px;
+}
+
+.just_block
+{
+    width: 100%;
+    background-color: #1d263a;
+    padding-bottom: 60px;
+    padding-top: 69px;
+}
+.just_block p
+{
+    
+    color: #ebebec;
+    font-size: 25px;
+    text-align: center;
+    width: 843px;
+    line-height: 1.2;
+    margin-left: 176px;
+    font-weight: 200;
+}
+.just_second
+{
+
+    color: #ebebec;
+    padding-top: 34px;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 162px;
+    font-weight: 400;
+}
+.title_and_menu
+{
+    padding-top: 57px;
+    height: 1000px;
 }
