@@ -21,7 +21,7 @@ html,body
 {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1170px;
+    max-width: 1194px;
 }
 
 
@@ -135,8 +135,8 @@ header
 .grey_line
 {
     margin-top: 22px;
-    margin-left: 299px;
-    margin-bottom: 23px;
+    margin-left: 310px;
+    margin-bottom: 26px;
 }
 .Under_line_text{
     text-align: center;
@@ -152,7 +152,7 @@ header
     display: inline-block;
     width: 279px;
     text-align: center;
-    margin-right: 17px;
+    margin-right: 20px;
 }
 .servic_small_block img
 {
@@ -211,7 +211,7 @@ header
 .title_and_menu
 {
     padding-top: 57px;
-    height: 1000px;
+    height: 2000px;
 }
 .title_and_menu nav
 {
@@ -234,4 +234,66 @@ header
 .title_and_menu nav a:hover
 {
     background-color: #00c7fc;
+}
+.image_frames
+{
+    margin-top: 75px;
+    margin-bottom: 497px;
+}
+.image_frames .images
+{
+        width: 282px;
+    height: 201px;
+    margin-right: 14px;
+    background-color: #546278;
+    display: inline-block;
+    margin-bottom: 24px;
+    
+}
+.images p
+{
+  text-align: center;
+    
+    color: transparent;
+    font-weight: 700;
+    text-transform: capitalize;
+    width: 126px;
+    font-size: 18px;
+    margin-left: 83px;
+    margin-top: 78px;
+    line-height: 1.3;
+}
+.images p span
+{
+    font-weight: 200;
+    font-size: 16px;
+}
+.images:hover
+{
+    background-color: #222c40;
+}
+.images:hover p
+{
+    color: #fff;
+    
+}
+.main_heading img
+{
+    margin-left: 568px;
+    margin-bottom: 64px;
+    display: block;
+}
+.just_text
+{
+        text-align: center;
+    margin-left: 242px;
+    margin-top: 16px;
+    width: 732px;
+    margin-bottom: 65px;
+    color: #7f90a5;
+}
+.we_love_our_work .button
+{
+    background-color: #3d506f;
+    margin-left: 510px;
 }
