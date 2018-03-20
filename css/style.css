@@ -211,7 +211,7 @@ margin-top: 20px;
 .title_and_menu
 {
     padding-top: 57px;
-    height: 2000px;
+    
 }
 .title_and_menu nav
 {
@@ -296,4 +296,87 @@ margin-top: 20px;
 {
     background-color: #3d506f;
     margin-left: 510px;
+}
+.About_us
+{
+    margin-top: 126px;
+   margin-bottom: 394px;
+    /*background-color: #222c40;*/
+}
+.About_us  .main_heading 
+{
+    color: #fff;
+}
+.About_us .second_heading
+{
+    color: #fff;
+    margin-bottom: 23px;
+    
+}
+.About_us .line
+{
+    margin-left: 312px;
+    
+}
+.hmm 
+{
+        text-align: center;
+    color: #fff;
+    width: 887px;
+    margin-left: 150px;
+}
+.team
+{
+    margin-top: 88px;
+}
+.team_people
+{
+    width: 214px;
+    margin-left: 38px;
+    height: 213px;
+    margin-right: 38px;
+    border-radius: 200px 200px 200px 200px;
+    border: 3px solid #fff;
+    display: inline-block;
+    background-color: #161f32;
+}
+.team_people:hover
+{
+    background-image: url(../images/white_arrow.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.team p
+{
+  text-align: center;
+    
+    color: #fff;
+    font-weight: 700;
+    text-transform: capitalize;
+    width: 124px;
+    font-size: 18px;
+    margin-left: 47px;
+    margin-top: 238px;
+    line-height: 1.3;
+    
+}
+.team p span
+{
+    font-weight: 200;
+    font-size: 16px;
+}
+.skills
+{
+     height: 2000px;
+}
+.skills .second_heading
+{
+    font-size: 14px;
+    color: #c3cad3;
+    text-transform: none;
+    text-transform: none;
+    width: 784px;
+    margin-left: 208px;
+    line-height: 1.2;
+    text-align: center;
 }
