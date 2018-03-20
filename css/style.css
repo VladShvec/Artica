@@ -35,7 +35,7 @@ header
 {
     float: left;
     margin-top: 34px;
-    margin-left: -9px;
+    margin-left: 9px;
 }
 .landing_info
 {
@@ -134,9 +134,9 @@ header
 }
 .grey_line
 {
-    margin-top: 22px;
+margin-top: 20px;
     margin-left: 310px;
-    margin-bottom: 26px;
+    margin-bottom: 25px;
 }
 .Under_line_text{
     text-align: center;
