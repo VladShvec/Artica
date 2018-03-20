@@ -213,11 +213,11 @@ margin-top: 20px;
     padding-top: 57px;
     
 }
-.title_and_menu nav
+nav
 {
     text-align: center;
 }
-.title_and_menu nav a
+nav a
 {
     font-size: 22px;
     font-weight: 400;
@@ -231,7 +231,7 @@ margin-top: 20px;
     text-transform: uppercase;
     background-color: #3d506f;
 }
-.title_and_menu nav a:hover
+nav a:hover
 {
     background-color: #00c7fc;
 }
@@ -367,7 +367,7 @@ margin-top: 20px;
 }
 .skills
 {
-     height: 2000px;
+    margin-bottom: 371px;
 }
 .skills .second_heading
 {
@@ -445,4 +445,40 @@ margin-top: 20px;
 .phot
 {
     width: 498px;
+}
+.info_numbers
+{
+    width: 100%;
+    margin-bottom: 131px;
+    /*background-color: #222c40;*/
+}
+.blocknumber
+{
+PADDING-TOP: 60px;
+    MARGIN-LEFT: 11px;
+    display: inline-block;
+    margin-right: 130px;
+}
+
+
+.blocknumber span
+{
+    font-size: 40px;
+}
+.blocknumber p {
+    width: 74px;
+    display: inline-block;
+    text-align: center;
+    height: 47px;
+    font-size: 19px;
+    margin-left: 3px;
+    color: #fff;
+}
+.blog
+{
+    height: 2000px;
+}
+.blog .Under_line_text
+{
+    margin-bottom: 75px;
 }
