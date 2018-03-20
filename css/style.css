@@ -379,4 +379,70 @@ margin-top: 20px;
     margin-left: 208px;
     line-height: 1.2;
     text-align: center;
+    margin-bottom: 63px;
+}
+.our_company .button
+{
+     background-color: #3d506f;
+    margin-left: 11px;
+}
+.our_company
+{
+    float: left;
+    width: 589px;
+}
+.our_company .second_oc
+{
+     margin-left: 11px;
+      color: #7f90a5;
+    margin-bottom: 26px;
+}
+.oc
+{
+    text-transform: capitalize;
+     color: #3d506f;
+    font-size: 27px;
+    margin-left: 6px;
+    margin-bottom: 19px;
+}
+.our_skills
+{
+    float: right;
+    width: 601px;
+}
+.our_skills .oc
+{
+    margin-left: 14px;
+}
+.our_skills div
+{
+    background-color: #3d506f;
+    height: 44px;
+    margin-bottom: 7px;
+    margin-left: 17px;
+    
+}
+.our_skills div p
+{
+    color: #fff;
+    padding-top: 14px;
+    text-transform: capitalize;
+    margin-left: 19px;
+}
+.html
+{
+    width: 510px;
+    
+}
+.js
+{
+    width: 468px;
+}
+.gd
+{
+    width: 524px;
+}
+.phot
+{
+    width: 498px;
 }
