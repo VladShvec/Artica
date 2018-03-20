@@ -145,7 +145,7 @@ header
      font-size: 16px;
     width: 790px;
     margin-left: 183px;
-    margin-bottom: 67px;
+    margin-bottom: 69px;
 }
 .servic_small_block
 {
@@ -212,4 +212,26 @@ header
 {
     padding-top: 57px;
     height: 1000px;
+}
+.title_and_menu nav
+{
+    text-align: center;
+}
+.title_and_menu nav a
+{
+    font-size: 22px;
+    font-weight: 400;
+    padding-right: 20px;
+    padding-left: 19px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-right: 2px;
+    margin-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #3d506f;
+}
+.title_and_menu nav a:hover
+{
+    background-color: #00c7fc;
 }
