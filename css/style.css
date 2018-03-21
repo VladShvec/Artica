@@ -616,6 +616,10 @@ padding-left: 47px;
     font-size: 20px;
     padding-right: 44px;
 }
+.subscribe:hover
+{
+    background-color: #00c7fc;
+}
 ::-webkit-input-placeholder {color:#fff;font-size: 20px;}
 ::-moz-placeholder          {color:#fff;font-size: 20px;}
 :-moz-placeholder           {color:#fff;font-size: 20px;}
@@ -732,6 +736,7 @@ margin-left: 88px;
     width: 217px;
     display: inline-block;
     margin-right: 90px;
+    margin-bottom: 56px;
 }
 .navigation img
 {
@@ -752,4 +757,65 @@ margin-left: 72px;
         color: #fff;
     
     font-size: 20px;
+}
+
+
+
+#main_form
+{
+    margin-left: 0;
+    padding-top: 0;
+}
+#main_form input
+{
+    border: 1px solid #fff;
+    background-color: #161f32;
+    font-style: italic;
+    color: #fff;
+        margin-left: 11px;
+    height: 63px;
+    margin-right: 12px;
+    width: 347px;
+    padding-left: 23px;
+    font-size:20px ;
+    margin-bottom: 31px;
+}
+textarea
+{
+        margin-left: 10px;
+    width: 1144px;
+    height: 207px;
+    border: 1px solid #fff;
+    background-color: #161f32;
+    resize: none;
+    font-size: 20px;
+    color: #fff;
+    padding-left: 23px;
+    padding-top: 19px;
+    font-style: italic;
+    margin-bottom: 13px;
+}
+#main_form .subscribe
+{
+        width: 236px;
+    height: 74px;
+    margin-left: 479px;
+    padding-left: 43px;
+}
+#main_form .subscribe:hover
+{
+    background-color: #00c7fc;
+}
+.footer
+{
+    text-align: center;
+    margin-top: 24px;
+}
+.copy
+    
+{
+    font-weight: 200;
+    color: #a6a8ac;
+    font-size: 11px;
+    margin-top: 18px;
 }
