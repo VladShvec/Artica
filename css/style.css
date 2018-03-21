@@ -14,6 +14,7 @@ html,body
     font-family: 'Lato', sans-serif;
     background-image: url(../images/bb.jpg);
     background-position: top;
+    background-repeat: no-repeat;
     
     
 }
@@ -302,7 +303,7 @@ nav a:hover
 {
     margin-top: 126px;
    margin-bottom: 394px;
-    /*background-color: #222c40;*/
+    background-color: #222c40;
 }
 .About_us  .main_heading 
 {
@@ -450,8 +451,8 @@ nav a:hover
 .info_numbers
 {
     width: 100%;
-    margin-bottom: 131px;
-    /*background-color: #222c40;*/
+    margin-bottom: 66px;
+    background-color: #222c40;
 }
 .blocknumber
 {
@@ -459,6 +460,7 @@ PADDING-TOP: 60px;
     MARGIN-LEFT: 11px;
     display: inline-block;
     margin-right: 130px;
+    padding-bottom: 62px;
 }
 
 
@@ -477,7 +479,7 @@ PADDING-TOP: 60px;
 }
 .blog
 {
-    height: 2000px;
+    
 }
 .blog .Under_line_text
 {
@@ -618,3 +620,136 @@ padding-left: 47px;
 ::-moz-placeholder          {color:#fff;font-size: 20px;}
 :-moz-placeholder           {color:#fff;font-size: 20px;}
 :-ms-input-placeholder {color:#fff;font-size: 20px;}
+.clients .main_heading
+{
+    color: #fff;
+    
+}
+.clients .second_heading
+{
+    color: #fff;
+    text-align: center;
+    width: 793px;
+    margin-left: 207px;
+    line-height: 1.2;
+    font-size: 17px;
+    text-transform: none;
+    margin-bottom: 49px;
+}
+.clients
+{
+     margin-top: 69px;
+    padding-top: 65px;
+    background-color: #161f32;
+    margin-bottom: 73px;
+}
+.company:nth-child(1)
+{
+    margin-top: 13px;
+    margin-left: 59px;
+}
+.company:nth-child(2)
+{
+        MARGIN-LEFT: 90px;
+    margin-bottom: 4px;
+}
+.company:nth-child(3)
+{
+        margin-left: 90px;
+    margin-bottom: 14px;
+    
+}
+.company:nth-child(4)
+{
+    margin-left: 61px;
+    margin-bottom: 4px;
+}
+.company:nth-child(5)
+{
+        margin-left: 68px;
+    margin-bottom: 10px;
+}
+.company:nth-child(6)
+
+{
+    margin-left: 82px;
+}
+.testimonial
+{
+  
+    padding-top: 64px;
+    padding-bottom: 67px;
+    background-color: #fff;
+}
+.testimonial .second_heading
+{
+        text-transform: none;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 500;
+    margin-left: 212px;
+    margin-top: 28px;
+    line-height: 1.2;
+    width: 831px;
+    margin-bottom: 12px;
+}
+.testimonial span
+{
+        display: block;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 9px;
+    color: #7f889b;
+    
+}
+.contact_us
+{
+     padding-top: 59px;
+    height: 1000px;
+}
+.contact_us .main_heading
+{
+    font-size: 34px;
+    color: #fff;
+}
+.contact_us .second_heading
+{
+    color: #fff;
+    margin-bottom: 22px;    
+}
+.contact_us .hmm
+{
+    margin-bottom: 53px;
+}
+.contact_us .line
+{
+    margin-left: 310px;
+}
+.navigation
+{
+margin-left: 88px;
+    width: 217px;
+    display: inline-block;
+    margin-right: 90px;
+}
+.navigation img
+{
+margin-left: 72px;
+    margin-top: 1px;
+    margin-bottom: 29px;
+}
+.heading_nav
+{
+        text-align: center;
+    color: #fff;
+    font-size: 21px;
+    text-transform: uppercase;
+    margin-bottom: 17px;
+}
+.adress
+{
+        color: #fff;
+    
+    font-size: 20px;
+}
