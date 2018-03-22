@@ -317,7 +317,7 @@ nav a:hover
 .About_us
 {
        padding-top: 68px;
-    margin-bottom: 360px;
+    margin-bottom: 288px;
     background-color: #222c40;
     padding-bottom: 34px;
 }
@@ -390,6 +390,12 @@ nav a:hover
 .skills
 {
     margin-bottom: 371px;
+    padding-top: 74px;
+    -moz-padding-top: 66px;
+}
+html:root .skills
+{
+    padding-top: 66px;
 }
 .skills .second_heading
 {
@@ -484,7 +490,7 @@ nav a:hover
 .info_numbers
 {
     width: 100%;
-    margin-bottom: 66px;
+
     background-color: #222c40;
 }
 .blocknumber
@@ -512,7 +518,7 @@ PADDING-TOP: 60px;
 }
 .blog
 {
-    
+   padding-top: 70px; 
 }
 .blog .Under_line_text
 {
@@ -656,10 +662,7 @@ padding-left: 47px;
 {
     background-color: #00c7fc;
 }
-::-webkit-input-placeholder {color:#fff;font-size: 20px;}
-::-moz-placeholder          {color:#fff;font-size: 20px;}
-:-moz-placeholder           {color:#fff;font-size: 20px;}
-:-ms-input-placeholder {color:#fff;font-size: 20px;}
+
 .clients .main_heading
 {
     color: #fff;
@@ -837,10 +840,7 @@ textarea
     font-style: italic;
     margin-bottom: 12px;
 }
-::-webkit-input-placeholder {color:#fff;font-size: 20px;}
-::-moz-placeholder          {color:#fff;font-size: 20px;}
-:-moz-placeholder           {color:#fff;font-size: 20px;}
-:-ms-input-placeholder {color:#fff;font-size: 20px;}
+
 #main_form .subscribe
 {
     width: 236px;
@@ -871,3 +871,9 @@ textarea
     font-size: 11px;
     margin-top: 18px;
 }
+::-webkit-input-placeholder {color:#fff;font-size: 20px;}
+::-moz-placeholder          {color:#fff;font-size: 20px;}
+:-moz-placeholder           {color:#fff;font-size: 20px;}
+:-ms-input-placeholder {color:#fff;font-size: 20px;}
+::-moz-placeholder, :-moz-placeholder {
+    opacity: 1;
