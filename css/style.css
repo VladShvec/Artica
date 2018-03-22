@@ -813,23 +813,24 @@ padding-left: 47px;
 }
 #main_form input
 {
-    border: 1px solid #fff;
-    background-color: #161f32;
-    font-style: italic;
-    color: #fff;
-    margin-left: 11px;
-    height: 63px;
-    margin-right: 12px;
-    width: 347px;
-    padding-left: 23px;
-    font-size:20px ;
-    margin-bottom: 31px;
+border: 1px solid #fff;
+background-color: #161f32;
+font-style: italic;
+color: #fff;
+margin-left: 11px;
+height: 63px;
+margin-right: 11px;
+width: 345px;
+    display: inline;
+padding-left: 23px;
+font-size: 20px;
+margin-bottom: 31px;
 }
 textarea
 {
     margin-left: 10px;
     width: 1144px;
-    height: 207px;
+    height: 191px;
     border: 1px solid #fff;
     background-color: #161f32;
     resize: none;
@@ -838,7 +839,7 @@ textarea
     padding-left: 23px;
     padding-top: 19px;
     font-style: italic;
-    margin-bottom: 12px;
+    margin-bottom: 31px;
 }
 
 #main_form .subscribe
