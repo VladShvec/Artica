@@ -307,6 +307,7 @@ nav a:hover
 .we_love_our_work 
 {
     background-color: #fff;
+    padding-top: 2px;
 }
 .we_love_our_work .button
 {
@@ -316,7 +317,7 @@ nav a:hover
 .About_us
 {
        padding-top: 68px;
-    margin-bottom: 364px;
+    margin-bottom: 360px;
     background-color: #222c40;
     padding-bottom: 34px;
 }
@@ -719,6 +720,7 @@ padding-left: 47px;
     padding-top: 64px;
     padding-bottom: 67px;
     background-color: #fff;
+    -moz-margin-bottom: -5px;
 }
 .testimonial .second_heading
 {
@@ -745,7 +747,9 @@ padding-left: 47px;
 }
 .contact_us
 {
-     padding-top: 57px;
+
+    padding-top: 56px;
+
    /*background-color: #161f32;*/
 }
 .contact_us .main_heading
