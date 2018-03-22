@@ -745,8 +745,8 @@ padding-left: 47px;
 }
 .contact_us
 {
-     padding-top: 59px;
-   background-color: #161f32;
+     padding-top: 57px;
+   /*background-color: #161f32;*/
 }
 .contact_us .main_heading
 {
@@ -831,14 +831,23 @@ textarea
     padding-left: 23px;
     padding-top: 19px;
     font-style: italic;
-    margin-bottom: 13px;
+    margin-bottom: 12px;
 }
+::-webkit-input-placeholder {color:#fff;font-size: 20px;}
+::-moz-placeholder          {color:#fff;font-size: 20px;}
+:-moz-placeholder           {color:#fff;font-size: 20px;}
+:-ms-input-placeholder {color:#fff;font-size: 20px;}
 #main_form .subscribe
 {
     width: 236px;
     height: 74px;
     margin-left: 479px;
     padding-left: 43px;
+    background-color: #fff;
+}
+#main_form .subscribe 
+{
+    color: #3d506f;
 }
 #main_form .subscribe:hover
 {
